@@ -1,4 +1,4 @@
-export interface Element {
+export interface SelectableElement {
   id: number;
   name: string;
 }

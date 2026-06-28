@@ -1,2 +1,2 @@
 export { default } from "./SelectWidget";
-export type { Element, FilterThreshold } from "./types";
+export type { SelectableElement, FilterThreshold } from "./types";

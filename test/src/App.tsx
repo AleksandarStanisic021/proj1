@@ -1,4 +1,4 @@
-import SelectWidget from "./components/SelectWidget";
+import SelectWidget from "./SelectWidget";
 
 export default function App() {
   return (
