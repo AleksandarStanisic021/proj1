@@ -1,3 +1,4 @@
+import "./index.css";
 import { useState, useMemo, useRef, useCallback, useEffect } from "react";
 import type { Element, FilterThreshold } from "./types";
 
